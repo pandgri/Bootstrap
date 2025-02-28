@@ -42,6 +42,7 @@ Es una pagina web de concesionario de coches que permite:
 
 ### Páginas de Detalle de Vehículos (`vehiculo1.html`), (`vehiculo2.html`) y (`vehiculo3.html`)
 - Coche con su imagen y modelo
+- Botón para comprar el coche
 - Galería de imágenes de las características del coche
 - Especificaciones técnicas organizadas en cards
 - Formulario de solicitud de prueba de manejo
